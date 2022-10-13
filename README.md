@@ -1,0 +1,2 @@
+# getkurs
+## projekt notes
